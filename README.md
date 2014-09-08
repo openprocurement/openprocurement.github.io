@@ -1,4 +1,4 @@
 openprocurement
 ===============
 
-Development of Open Procurement system
+Development of Open Procurement system.
