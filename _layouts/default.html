@@ -1,0 +1,47 @@
+---
+---
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div id="banner">
+      <span id="logo"></span>
+      <div class="downloads">
+        {% assign posts=site.posts | where:"lang", page.lang | sort: 'path' %}
+        <ul>
+        {% for post in posts %}
+            <li class="lang">
+                <a href="{{site.baseurl}}{{post.url}}" class="button {{ post.lang }}">{{ post.menu_title }}</a>
+            </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div class="wrapper">
+      <nav>
+        <ul class='dropdown'>
+          {% for i in site.languages %}
+            {% for post in site.posts %}
+              {% if {{page.date}} == {{post.date}} and {{post.lang}} == {{i.key}} %}
+                <li><a href='{{site.baseurl}}{{post.url}}' {% if page.lang == i.key %}class='active'{% endif %}>{{i.name}}</a></li>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+        </ul>
+      </nav>
+      <section>
+        <h1>{{ page.title | post.title }}</h1>
+        {{ content }}
+      </section>
+      {% include footer.html %}
+    </div>
+
+  </body>
+
+</html>
