@@ -41,7 +41,7 @@ This page contains the development roadmap for the Open Procurement toolkit. As 
 ##[Public Procurement Portal](http://openprocurement.org/en/public-procurement-portal)
 * Discoverability via search engines, permalinks, notification subscription, data visualization. 
 * Search criteria and filtering (based on Economic Operator, range of dates, CPV code, etc.).
-* Data in several different open formats (OCDS, CSV, XML, etc.).
+* Data in several different open formats (OCDS, CSV, SPARQL, XML, etc.).
 
 [Read more detailed specifications](http://openprocurement.org/en/public-procurement-portal)
 
