@@ -38,12 +38,12 @@ categories: ua
 
 ####На майбутнє
 
-##[Публічний портал для доступу до бази даних державних закупівель](http://openprocurement.org//public-procurement-portal) 
+##[Публічний портал для доступу до бази даних державних закупівель](http://openprocurement.org/ua/public-procurement-portal) 
 * Краща видимість у пошукових системах, постійні URL, підписка на повідомлення, візуалізація даних.
 * Пошукові критерії та фільтрування (наприклад, за Замовником, датами, CPV кодом).
 * Дані у декількох відкритих форматах (OCDS, CSV, SPARQL, XML, etc.).
 
-[Більш детально про розробку](http://openprocurement.org/en/public-procurement-portal)
+[Більш детально про розробку](http://openprocurement.org/ua/public-procurement-portal)
 
 ##Розробка механізму роботи через вікно версій
 * Полегшення переходу зі старої версії API на нову.
