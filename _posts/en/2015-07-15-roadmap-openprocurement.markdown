@@ -8,14 +8,14 @@ categories: en
 
 This page contains the development roadmap for the Open Procurement toolkit. As we continue to improve the existing software, this list of modules and features will give you an insight into our plans.
 
->RECENTLY COMPLETED
+####RECENTLY COMPLETED
 
 ##Scaling
 * Separate servers to host CDB and auctions.
 * Horizontal scaling and load distribution across CDB servers.
 * Backup server with copies of system data.
 
->COMING SOON
+####COMING SOON
 
 ##The stand of automated testing
 * Jenkins-based Continuous Integration system for eMalls (commercial electronic procurement platforms) testing. 
@@ -26,7 +26,7 @@ This page contains the development roadmap for the Open Procurement toolkit. As 
 * Logs from CDB, auctions, eMalls, CDB sandbox.
 * Logs archivation for audit needs.
 
->PLANNED
+####PLANNED
 
 ##Dynamic Purchasing System
 * Applied for commonly used purchases the characteristics of which, as generally available on the market, meet their requirements.
@@ -36,7 +36,7 @@ This page contains the development roadmap for the Open Procurement toolkit. As 
 * Integration with Tender Electronic Daily (TED).
 * Multi-lot purchases.
 
->FUTURE
+####FUTURE
 
 ##[Public Procurement Portal](http://openprocurement.org/en/public-procurement-portal)
 * Discoverability via search engines, permalinks, notification subscription, data visualization. 
