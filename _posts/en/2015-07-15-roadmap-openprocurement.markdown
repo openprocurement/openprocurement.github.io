@@ -17,14 +17,19 @@ This page contains the development roadmap for the Open Procurement toolkit. As 
 
 ####COMING SOON
 
-##The stand of automated testing
+##[Test Stand with Automated Acceptance Test Suite](http://openprocurement.org/en/test-stand.html) 
 * Jenkins-based Continuous Integration system for eMalls (commercial electronic procurement platforms) testing. 
 * Checking the current state of every eMall (implementation level of different features) and functionality regression if one occurs.
 
-##Logging system
+[Read more detailed specifications](http://openprocurement.org/en/test-stand.html) 
+
+
+##[Log server](http://openprocurement.org/en/log-server.html)
 * Online logs using syslog protocol, JSON.
 * Logs from CDB, auctions, eMalls, CDB sandbox.
 * Logs archivation for audit needs.
+
+[Read more detailed specifications](http://openprocurement.org/en/log-server.html)
 
 ####PLANNED
 
