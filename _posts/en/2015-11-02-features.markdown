@@ -1,0 +1,21 @@
+---
+layout: default
+title:  "Open Procurement features"
+menu_title: "Features"
+lang: en
+categories: en
+---
+
+* ###[Reverse auction](http://openprocurement.org/en/auction-page-for-openprocurement.html)
+
+* ###[Log server](http://openprocurement.org/en/log-server.html)
+
+* ###[Non-price criteria](http://openprocurement.org/en/nonprice-criteria.html)
+
+* ###[Test Stand with Automated Acceptance Test Suite](http://openprocurement.org/en/test-stand.html) 
+
+* ###[Multi-lot tender](http://openprocurement.org/en/multilots.html)
+
+* ###[Complaints](http://openprocurement.org/en/complaints.html)
+
+* ###[Public Procurement Portal](http://openprocurement.org/en/public-procurement-portal)

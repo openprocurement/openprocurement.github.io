@@ -1,0 +1,19 @@
+---
+layout: default
+title:  "Функціонал системи електронних закупівель"
+menu_title: "Функціонал"
+lang: ua
+categories: ua
+---
+
+* ###[Сервер логування](http://openprocurement.org/ua/log-server.html)
+
+* ###[Нецінові критерії](http://openprocurement.org/ua/nonprice-criteria.html)
+
+* ###[Стенд автоматизованого тестування](http://openprocurement.org/ua/test-stand.html) 
+
+* ###[Багатолотові закупівлі](http://openprocurement.org/ua/multilots.html)
+
+* ###[Оскарження](http://openprocurement.org/ua/complaints.html)
+
+* ###[Публічний портал](http://openprocurement.org/ua/public-procurement-portal)
