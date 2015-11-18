@@ -4,6 +4,7 @@ title:  "Software Requirements Specifications for development of Public Procurem
 menu_title: "Specifications for Public Portal"
 lang: en
 categories: en
+exclude_from_nav: 'yes'
 ---
 
 ###1. GENERAL INFORMATION

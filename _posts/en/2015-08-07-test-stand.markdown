@@ -4,6 +4,7 @@ title:  "Test Stand with Automated Acceptance Test Suite"
 menu_title: "Test Stand"
 lang: en
 categories: en
+exclude_from_nav: 'yes'
 ---
 
 ### 1. General information

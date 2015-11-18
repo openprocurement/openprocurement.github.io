@@ -1,9 +1,10 @@
 ---
 layout: default
 title:  "Reverse auction at glance"
-menu_title: "Reverse auction at glance"
+menu_title: "Reverse auction"
 lang: en
 categories: en
+exclude_from_nav: 'yes'
 ---
 
 Reverse auction is a procedure of determining the candidate with the lowest price offer, where participants have the opportunity for multiple submissions of bids (lowering the sum of price offers).

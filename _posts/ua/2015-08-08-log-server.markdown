@@ -4,6 +4,7 @@ title: "Сервер логування"
 menu_title: "Сервер логування"
 lang: ua
 categories: ua
+exclude_from_nav: 'yes'
 ---
 
 ### Мета

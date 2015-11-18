@@ -4,6 +4,7 @@ title:  "Log Server"
 menu_title: "Log Server"
 lang: en
 categories: en
+exclude_from_nav: 'yes'
 ---
 
 ### Aim
