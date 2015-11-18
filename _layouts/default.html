@@ -16,9 +16,11 @@
         {% assign posts=site.posts | where:"lang", page.lang | sort: 'path' %}
         <ul>
         {% for post in posts %}
+          {% if {{post.exclude_from_nav}} != 'yes' %}
             <li class="lang">
                 <a href="{{site.baseurl}}{{post.url}}" class="button {{ post.lang }}">{{ post.menu_title }}</a>
             </li>
+          {% endif %}
         {% endfor %}
         </ul>
       </div>
