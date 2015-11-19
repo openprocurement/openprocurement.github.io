@@ -1,0 +1,11 @@
+{
+  "name": "openprocurement.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "grunt-cli": "latest",
+    "grunt-autoprefixer": "^3.0.3",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-watch": "latest"
+  }
+}
