@@ -19,7 +19,7 @@ exclude_from_nav: 'yes'
 
 ##Legal framework
 
-* [Law on the Public procurement (in Ukrainian)](https://docs.google.com/document/d/1lBK5Y5bYPm2OmFhlfE3OuTX6H6KAfRj9fzEkNkzy8-8)
+* [Law on the Public procurement (in Ukrainian)](https://docs.google.com/document/d/1wxHLMOohlCXC14yamFqc_o4f3mJnWC4eXwDZ6F3GaPI/edit?usp=sharing)
 * [Decree of the Ministry of economic development and trade of Ukraine №921 “On approval of the order definition of the procurement subject” (in Ukrainian)](http://zakon2.rada.gov.ua/laws/show/z0623-10)
 
 ##Brief process overview

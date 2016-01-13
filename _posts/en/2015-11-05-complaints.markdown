@@ -16,17 +16,17 @@ exclude_from_nav: 'yes'
 * 5.1 Below threshold procurement
 * 5.2 Above threshold procurement
 6. Detailed process overview
-* 6.1 Request to eliminate violation
+* 6.1 Violation elimination claim
 * 6.2 Complaint submission (below threshold procurement)
 * 6.3 Complaint submission (above threshold procurement)
 * 6.4 The decision to accept Complaint for consideration (above threshold procurement)
 * 6.5 Procurement procedure blocking (above threshold procurement)
-  * 6.5.1 Complaints about the procurement requirements
+  * 6.5.1 Complaints about the procurement conditions
   * 6.5.2 A complaint about the decision of the Procuring entity
 * 6.6 Notification of violation elimination by the Procuring entity
 * 6.7 Publication of the decision of the Complaint Review body
 * 6.8 Procedure unblocking (above threshold procurement)
-  * 6.8.1 Complaint about the procurement requirements
+  * 6.8.1 Complaint about the procurement conditions
   * 6.8.2 A complaint about the awarding decision of the Procuring entity
 * 6.9 Withdrawal of Complaint by Complainant
 7. eMall requirements
@@ -45,21 +45,21 @@ exclude_from_nav: 'yes'
 
 ##3. Legal framework
 
-[Law on the Public procurement (in Ukrainian)](https://docs.google.com/document/d/1lBK5Y5bYPm2OmFhlfE3OuTX6H6KAfRj9fzEkNkzy8-8)
+[Law on the Public procurement (in Ukrainian)](https://docs.google.com/document/d/1wxHLMOohlCXC14yamFqc_o4f3mJnWC4eXwDZ6F3GaPI/edit?usp=sharing)
 
 ##4. Terms:
 
-**Above threshold tenders** -- procurements with the expected subject value more than UAH 200,000 for goods and services and more than UAH 1.5 million for activities, that do not fall within the scope of the Law on public procurement (Article 2.1). They are conducted according to the procedures determined by the Law: “Open tendering”, “Competitive dialogue”, that can also be used within “Framework agreement” or “Negotiation procedure”.
+**Above threshold tenders** -- procurements with the expected subject value more than UAH 200,000 for goods and services and more than UAH 1.5 million for activities, that do not fall within the scope of the Law on public procurement (Article 2.1). They are conducted according to the procedures determined by the Law: "Open tendering", "Competitive dialogue", that can also be used within "Framework agreement" or "Negotiation procedure".
 
 **Authorized body** -- Ministry of economic development and trade of Ukraine.
 
-**Below threshold tenders** -- procurements with the expected subject value up to UAH 200,000  for goods and services and up to UAH 1.5 million for activities, that do not fall within the scope of the Law on the Public procurement (Article 2.1). They are conducted according to the procedure “Below threshold tenders”.
+**Below threshold tenders** -- procurements with the expected subject value up to UAH 200,000  for goods and services and up to UAH 1.5 million for activities, that do not fall within the scope of the Law on the Public procurement (Article 2.1). They are conducted according to the procedure "Below threshold tenders".
 
 **CDB** -- Prozorro Central DataBase that eMalls are connected to.
 
 **Complaint** -- official appeal to the Complaint Review body with the demand to eliminate violations that presumably (according to the Complainant) had been made by Procuring entity.
 
-**Complainant** -- any registered system user (except Procuring entity) that wants to submit a Request or Complaint to the tender requirements, or Participant that wants to submit a Request or Complaint to the decision of Procuring entity about tender winner.
+**Complainant** -- any registered system user (except Procuring entity) that wants to submit a Claim or Complaint about the tender conditions, or Participant that wants to submit a Claim or Complaint about the decision of Procuring entity on tender winner.
 
 **Complaint Review body** -- a collective body that reviews filed complaints. For the below threshold tenders it is a body formed at Transparency International Ukraine or at another independent public organization, that legally has the right only to make recommendations for Procuring entities. For the above threshold tenders it is the Antimonopoly Committee of Ukraine, which decisions are compulsory for Procuring entities.
 
@@ -73,22 +73,22 @@ exclude_from_nav: 'yes'
 
 **Procuring entity** -- state organization that conducts tender.
 
-**Request to eliminate violation, the Request** -- formal appeal to a Procuring entity to eliminate violations that presumably (according to the Complainant) had been made by the Procuring entity.
+**Violation elimination claim, the Claim** -- formal appeal to a Procuring entity to eliminate violations that presumably (according to the Complainant) had been made by the Procuring entity.
 
 
 ##5. Brief process overview
 
 ###5.1 Below threshold procurement
 
-Below threshold procurement complaints are transferred to the advisory body, created at the Transparency International, that has its own user cabinet. Simplified, complaint review process looks this way:
+Below threshold procurement complaints are transferred to the advisory body, created at the Transparency International, that has its own user cabinet. Simplified, complaint review process looks the following way:
 
 ![Complaints for Below threshold procurement](/images/complaints/en_complaints_below_threshold.png)
 
-In addition to existing opportunity to ask questions about the procurement procedure, any user registered in the system (except Procuring entities) can contact a Procuring entity and make a Request to eliminate violation (Article 23 of the Law).
+In addition to existing opportunity to ask questions about the procurement procedure, any user registered in the system (except Procuring entities) can contact Procuring entity and make a Violation elimination claim (Article 23 of the Law).
 
-The Procuring entity has three days to review the Request and make a decision on it. During this period the Procuring entity must publish a response to the Request and (in the case of complaint satisfaction) amend the appropriate procurement requirements or awarding procedure results.
+The Procuring entity has three days to review the Claim and make a decision on it. During this period the Procuring entity must publish a response to the Claim and (in the case of complaint satisfaction) amend the appropriate procurement conditions or awarding procedure results.
 
-Complainant must assess the complaint resolution. If he is satisfied with the decision, the incident is exhausted and the process ends. If he is not satisfied, or if the Procuring entity did not review the Request, it automatically becomes a Complaint for the Complaint Review body to investigate.
+Complainant must assess the complaint resolution. If he/she is satisfied with the decision, the incident is exhausted and the process ends. If he/she is not satisfied, or if the Procuring entity did not review the Claim, it automatically becomes a Complaint for the Complaint Review body to investigate.
 
 The Complaint Review body reviews the Complaint and publishes a decision on it. This decision is conveyed to the Procuring entity and Participants, and is automatically published on the eMalls’ websites and official web portal of the Authorized body. The decision of the Complaint Review body has recommendatory character and does not lead to procedure blocking.
 
@@ -96,20 +96,21 @@ The Complaint Review body reviews the Complaint and publishes a decision on it. 
 
 Complaints to the above threshold procurement are transferred to the official Complaint Review body (the Antimonopoly Committee of Ukraine) that has a separate user cabinet.
 
-Similarly to the complaint process for the below threshold procurement, any user registered in any eMall can contact Procuring entity and make a Request to eliminate violation in the tender requirements, and, in case of dismissal, transform it into a Complaint. In addition, user can submit a Complaint without the previously created Request.
+Similarly to the complaint process for the below threshold procurement, any user registered in any eMall can contact Procuring entity and make a Violation elimination claim about the tender conditions, and, in case of dismissal, turn it into a Complaint. In addition, user can submit a Complaint without the previously created Claim.
 
 Simplified, the process of Complaint submission and review looks this way:
 
 ![Complaints for Above threshold procurement](/images/complaints/en_complaints_above_threshold.png)
 
 After the Complaint submission, a representative of the Complaint Review body checks:
+
 * whether Complaint technically complies with the Law requirements;
 * if Complainant paid the fee;
 * whether Procuring entity eliminated violation.
 
 If all of the conditions are carried out, Complaint is accepted for review. Otherwise, it is rejected. 
 
-*Complaints about the procurement requirements*, accepted for review, block the start of the auction for the period of Complaint review. After the publication of the Complaint Review body's decision, if the Complaint was dismissed, procedure is unblocked and the system replans the date of the auction. In case of Complaint satisfaction (full or partial) the procedure is unblocked, but the Enquiries period end date changes to "determining" so that the Procuring entity is able to amend the tender documents or to cancel the procedure.
+*Complaints about the procurement conditions*, accepted for review, block the start of the auction for the period of Complaint review. After the publication of the Complaint Review body's decision, if the Complaint was dismissed, procedure is unblocked and the system replans the date of the auction. In case of Complaint satisfaction (full or partial) the procedure is unblocked, but the Enquiries period end date changes to "determining" so that the Procuring entity is able to amend the tender documents or to cancel the procedure.
 
 *Awarding decision Complaints*, accepted for review, block the opportunity to publish a contract with the winner. If the Complaint was dismissed, procedure is unblocked. The Procuring entity carries out the decision of the Complaint Review body under its own responsibility, there are no additional automatic control means.
 
@@ -119,13 +120,13 @@ Submitted complaints and their resolutions are published on the eMall websites a
 
 ##6. Detailed process overview
 
-###6.1 Request to eliminate violation
+###6.1 Violation elimination claim
 
-For the below threshold tenders the Request is submitted at any moment before the contract is published by the Procuring entity.
+For the below threshold tenders the Claim is submitted at any moment before the contract is published by Procuring entity.
 
-For the above threshold tenders the Request can be related only to the procurement subject and has to be submitted not later than ten days before the end of bid registration period.
+For the above threshold tenders the Claim can be related only to the procurement subject and has to be submitted not later than ten days before the end of bid registration period.
 
-Information about user who submitted the Request is not secret and is disclosed in the moment of submission.
+Information about user who submitted the Claim is not secret and is disclosed at the moment of submission.
 
 Form fields that are filled in by user:
 
@@ -151,7 +152,7 @@ Form fields that are filled in by user:
         </tr>
         <tr>
             <td><strong>claims:description</strong></td>
-            <td>Request text</td>
+            <td>Claim text</td>
         </tr>
     </tbody>
 </table>
@@ -184,15 +185,15 @@ Form fields that are filled in automatically:
         </tr>
         <tr>
             <td><strong>tender:id</strong></td>
-            <td>Tender ID for which Request is submitted</td>
+            <td>Tender ID for which Claim is submitted</td>
         </tr>
         <tr>
             <td><strong>claims:type</strong></td>
-            <td>Complaint type: “Request”</td>
+            <td>Complaint type: Claim</td>
         </tr>
         <tr>
             <td><strong>claims:subject</strong></td>
-            <td>“Tender requirements” or “Decision of the Procuring entity”</td>
+            <td>"Tender conditions" or "Decision of the Procuring entity"</td>
         </tr>
         <tr>
             <td><strong>claims:dateSubmitted</strong></td>
@@ -203,7 +204,7 @@ Form fields that are filled in automatically:
 
 User can add attachments.
 
-The procuring entity considers Request and registers decision in the following fields:
+The procuring entity considers Claim and registers decision in the following fields:
 
 <table>
     <thead>
@@ -215,15 +216,15 @@ The procuring entity considers Request and registers decision in the following f
     <tbody>
         <tr>
             <td><strong>claims:answer</strong></td>
-            <td>Відповідь Замовника</span></td>
+            <td>Decision of Procuring entity</span></td>
         </tr>
         <tr>
             <td><strong>claims:resolution</strong></td>
-            <td>“Задоволено” або “Не задоволено”</td>
+            <td>"Satisfied" або "Dismissed"</td>
         </tr>
         <tr>
             <td><strong>claims:dateResolved</strong></td>
-            <td>Дата реєстрації відповіді в ЦБД</td>
+            <td>Date of the decision registration in the CDB</td>
         </tr>
     </tbody>
 </table>
@@ -232,9 +233,9 @@ The procuring entity can add attachments to this document.
 
 ###6.2 Complaint submission (below threshold procurement)
 
-If Procuring entity does not review the Request within three days, it automatically becomes a Complaint.
+If Procuring entity does not review the Claim within three days, it automatically becomes a Complaint.
 
-If the Procuring entity has reviewed the request, Complainant assesses its decision.
+If the Procuring entity has reviewed the claim, Complainant assesses its decision.
 
 <table>
     <thead>
@@ -251,7 +252,7 @@ If the Procuring entity has reviewed the request, Complainant assesses its decis
     </tbody>
 </table>
 
-If the Complainant is not satisfied with the decision, he can transform the Request into Complaint. But the Complainant can not submit a Complaint if he did not make a Request to the Procuring entity before it. If the Complainant has not assessed the Procuring entity’s decision within three days, it is automatically considered to be satisfied.
+If the Complainant is not satisfied with the decision, he can turn (escalate) the Claim into Complaint. But the Complainant can not submit a Complaint if he did not make a Claim to the Procuring entity before it. If the Complainant has not assessed the Procuring entity’s decision within three days, it is automatically considered to be satisfied.
 
 During the Complaint submission user fills the following fields of the same document:
 
@@ -276,7 +277,7 @@ At the moment of submission the complaint receives the status "Submitted".
 
 ###6.3 Complaint submission (above threshold procurement)
 
-Any registered system user can file a complaint about procurement subject, but not later than four days before the bid registration stage is completed. For this, he creates a form and fills in the following fields:
+Any registered system user can file a complaint about procurement subject, but not later than four days before the bid registration stage is completed. For this, he/she creates a form and fills in the following fields:
 
 <table>
     <thead>
@@ -311,7 +312,7 @@ Any registered system user can file a complaint about procurement subject, but n
 
 Also, the user can add attachments to this document.
 
-Fields that are automatically filled in correspond to the automatically filled in fields on the Request form. At the moment of submission the complaint receives the status "Submitted".
+Fields that are automatically filled in correspond to the automatically filled in fields on the Claim form. At the moment of submission the complaint receives the status "Submitted".
 
 ###6.4 The decision to accept Complaint for consideration (above threshold procurement)
 
@@ -353,13 +354,13 @@ Representative of the Complaint Review body sees in his user cabinet queue of co
 
 Also, the user can add attachments to this document.
 
-After the decision on Complaint acceptance is made, the Complaint receives the status "Accepted" or “Rejected”.
+After the decision on Complaint acceptance is made, the Complaint receives the status "Accepted" or "Rejected".
 
 ###6.5 Procurement procedure blocking (above threshold procurement)
 
-####6.5.1 Complaints about the procurement requirements
+####6.5.1 Complaints about the procurement conditions
 
-Complaint about the procurement requirements must be submitted by a Complainant no later than four days before the end of the bid registration period. The Complaint Review body must decide about the Complaint review within three days, i.e. until the planned end of the bid registration period. If the Complaint Review body registered decision to reject Complaint review, the procedure is not blocked. 
+Complaint about the procurement conditions must be submitted by a Complainant no later than four days before the end of the bid registration period. The Complaint Review body must decide about the Complaint review within three days, i.e. until the planned end of the bid registration period. If the Complaint Review body registered decision to reject Complaint review, the procedure is not blocked. 
 If the Complaint Review body either did not register decision at all or registered decision to accept  Complaint for review, the procedure is blocked. 
 
 When procedure is blocked, its status changes to "Blocked" and auction planning module removes scheduled auction from the queue. Information about procedure blocking is published on the eMall websites and the official web portal of the Authorized Agency. The published message includes: text "The procedure is blocked because of a complaint.", end date of the bid registration period and date of the auction start.
@@ -419,7 +420,7 @@ If complaint was reviewed, or if the message from the user about violation elimi
     <tbody>
         <tr>
             <td><strong>claims:Decision</strong></td>
-            <td>“Satisfied completely”, “Satisfied partly“ or “Dismissed”</span></td>
+            <td>"Satisfied completely", "Satisfied partly" or "Dismissed"</span></td>
         </tr>
         <tr>
             <td><strong>claims:decisionDate</strong></td>
@@ -434,7 +435,7 @@ After the publication of the decision on the complaint, the status changes to "C
 
 ###6.8 Procedure unblocking (above threshold procurement)
 
-####6.8.1 Complaint about the procurement requirements
+####6.8.1 Complaint about the procurement conditions
 
 After the publication of the Complaint Review body’s decision with the status "Dismissed", procedure is unblocked automatically. If at the time of unblocking there are at least two days to the scheduled end date of the bid registration period, the system leaves these dates unchanged. Otherwise, the system automatically changes end date of the bid registration period to the next business day and reschedules auction for no earlier than two days after the publication of the decision.
 
@@ -467,29 +468,29 @@ At any time before the publication of the Complaint Review body’s decision, th
     </tbody>
 </table>
 
-In this case Complaint status changes to “Cancelled”.
+In this case Complaint status changes to "Cancelled".
 
 ##7. eMall requirements
 
 ###7.1 All procedures:
 
-* Any registered user (except Procuring entities)  can submit a Request to eliminate violations.
-* Procuring entity can publish decision for the Request.
-* Complainant can turn Request into Complaint.
-* Publication of all Requests and their decisions separately from Questions (it is recommended to notably highlight this in user interface).
+* Any registered user (except Procuring entities)  can submit a Violation elimination claim.
+* Procuring entity can publish decision for the Claim.
+* Complainant can turn (escalate) Claim into Complaint.
+* Publication of all Claims and their decisions separately from Questions (it is recommended to notably highlight this in user interface).
 * Publication of a separate complaint register indicating the complaint identifier, the complainant, the Procuring entity, consideration status, and link to complaint’s document.
-* Publication of all Complaints and their resolutions separately from Questions (it is recommended to notably highlight this in user interface). They may be combined with Requests or published separately.
+* Publication of all Complaints and their resolutions separately from Questions (it is recommended to notably highlight this in user interface). They may be combined with Claims or published separately.
 * Complainant can withdraw the Complaint.
 * The form for the Procuring entity to publish notice about violation elimination.
 
 ###7.2 Above threshold procurement
 
-* By default, the ‘Request to eliminate violation’ button and ‘Complaint’ button must be available for any user registered on the eMall (except Procuring entities). Request button becomes unavailable ten days before the end of the bid registration period, ‘Complaint’ button - four days before it.
+* By default, the ‘Violation elimination claim’ button and ‘Complaint’ button must be available for any user registered on the eMall (except Procuring entities). Claim button becomes unavailable ten days before the end of the bid registration period, ‘Complaint’ button - four days before it.
 
 ###7.3 Below threshold procurement
 
-* By default, the ‘Request to eliminate violation’ button must be available for any user registered on the eMall (except Procuring entities). Button becomes unavailable at the time of the contract publication.
-* After the Procuring entity made decision about the Request, but no later than three business days after submission, ‘Submit a complaint’ button must become available on the Complainant’s Request form. This button performs request escalation process.
+* By default, the ‘Violation elimination claim’ button must be available for any user registered on the eMall (except Procuring entities). Button becomes unavailable at the time of the contract publication.
+* After the Procuring entity made decision about the Claim, but no later than three business days after submission, ‘Submit a complaint’ button must become available on the Complainant’s Claim form. This button performs claim escalation process.
 
 ##8. Requirements to the Complaint Review body’s office 
 
@@ -508,8 +509,8 @@ In this case Complaint status changes to “Cancelled”.
 
 ##9. Central web portal requirements 
 
-* Publication of all Requests and their resolutions separately from Questions (it is recommended to notably highlight this in the user interface).
+* Publication of all Claims and their resolutions separately from Questions (it is recommended to notably highlight this in the user interface).
 * Publication of a separate complaint register indicating the complaint identifier, the complainant, the Procuring entity, consideration status, and link to complaint’s document.
-* Publication of all Complaints and their resolutions separately from Questions (it is recommended to notably highlight this in user interface). They may be combined with Requests or published separately.
+* Publication of all Complaints and their resolutions separately from Questions (it is recommended to notably highlight this in user interface). They may be combined with Claims or published separately.
 
 

@@ -18,7 +18,7 @@ exclude_from_nav: 'yes'
 
 ##Нормативна база
 
-* [Законопроект “Про публічні закупівлі”](https://docs.google.com/document/d/1lBK5Y5bYPm2OmFhlfE3OuTX6H6KAfRj9fzEkNkzy8-8)
+* [Законопроект “Про публічні закупівлі”](https://docs.google.com/document/d/1wxHLMOohlCXC14yamFqc_o4f3mJnWC4eXwDZ6F3GaPI/edit?usp=sharing)
 * [Наказ МЕРТ №921  “Про затвердження Порядку визначення предмета закупівлі”](http://zakon2.rada.gov.ua/laws/show/z0623-10)
 
 ##Стислий огляд процесу:
