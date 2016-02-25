@@ -9,7 +9,7 @@ exclude_from_nav: 'yes'
 
 ### 1. General information
 
-ProZorro project is to be extended with Test Stand with Automated Acceptance Test Suite. It will cover running tests, exploring test run details (including historical records), publishing the results. Acceptance test suite will become an unbiased criteria for new procurement platform readiness evaluation. 
+The ProZorro project is to be extended with Test Stand with Automated Acceptance Test Suite. It will cover running tests, exploring test run details (including historical records), and publishing the results. Acceptance test suite will become an unbiased criteria for new procurement platform readiness evaluation. 
 
 Test Stand is expected to provide self-service means for project stakeholders to enable adding new test configurations as needs arise.
 
@@ -17,9 +17,9 @@ Test cases documentation, instructions and implementation recommendations are to
 
 ### 2. Statement of objective
 
-Primary short term objective is having Test Stand with ability to evaluate new purchasing platforms with unbiased Automated Acceptance Test Suite.
+The primary short term objective is having Test Stand with the ability to evaluate new purchasing platforms with unbiased Automated Acceptance Test Suite.
 
-The secondary objective is ability to continue using Test Stand with Automated Acceptance Test Suite by stakeholders to ensure compliance during operations and further project development. This is expected to increase the project velocity for all stakeholders. 
+The secondary objective is the ability to continue using Test Stand with Automated Acceptance Test Suite by stakeholders to ensure compliance during operations and further project development. This is expected to increase the project velocity for all stakeholders. 
 
 ### 3. Automated Acceptance Testing
 

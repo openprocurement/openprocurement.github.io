@@ -80,7 +80,7 @@ exclude_from_nav: 'yes'
 
 ###5.1 Below threshold procurement
 
-Below threshold procurement complaints are transferred to the advisory body, created at the Transparency International, that has its own user cabinet. Simplified, complaint review process looks the following way:
+Below threshold procurement complaints are transferred to the advisory body, created at the Transparency International, that has its own user cabinet. Simplified, the complaint review process is as follows:
 
 ![Complaints for Below threshold procurement](/images/complaints/en_complaints_below_threshold.png)
 

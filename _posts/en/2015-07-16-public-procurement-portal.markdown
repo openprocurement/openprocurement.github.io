@@ -11,18 +11,18 @@ exclude_from_nav: 'yes'
 
 The Prozorro Project was launched in January 2015. Its goal was providing an accessible reverse auction solution to be used on voluntary basis and thus reduce corruption in public procurement in Ukraine. 
 
-Software toolkit used in this project is an open source solution with repositories hosted at [https://github.com/openprocurement](https://github.com/openprocurement). This toolkit contains database (that stores detailed procurement information) and functional modules, e.g. e-Auction, e-Qualification, e-Evaluation, e-Awarding, etc. Currently the only way to extract data from the database is via an API, so it is important to create other extraction mechanism. Specifically, a centralized place for the publication of all procurement-related data accessible for ordinary internet users.
+The software toolkit used in this project is an open source solution with repositories hosted at [https://github.com/openprocurement](https://github.com/openprocurement). This toolkit contains a database (that stores detailed procurement information) and functional modules, e.g. e-Auction, e-Qualification, e-Evaluation, e-Awarding, etc. Currently the only way to extract data from the database is via an API, so it is important to create other extraction mechanism. Specifically, a centralized place for the publication of all procurement-related data accessible for ordinary internet users.
 
 Public Procurement Portal (further - Portal) is a public portal that provides access to the public procurement database. The Portal should become the medium through which all Ukrainian public procurement information is accessed, found, and viewed. 
 
-The primary goal of the portal is to be able to see the spending of governmental institutions: what they spend on, who does the projects and receives the money, what kind of procurement process was used, and so on. It serves as a strategic tool for the whole electronic procurement lifecycle helping at identifying inconsistencies, suspicious manipulations, opportunities for improvement and cost reductions, etc.
+The primary goal of the portal is to be able to see the spending of governmental institutions: what they spend their money on, who does the projects and receives the money, what kind of procurement process was used, and so on. It serves as a strategic tool for the whole electronic procurement lifecycle helping at identifying inconsistencies, suspicious manipulations, opportunities for improvement and cost reductions, etc.
 
 The Portal will become an important information source for the picture of the public procurement in Ukraine. Access to an extensive database will promote collection, analysis and synthesis of data with a different level of detail and regularity. 
 
 
 **Expected portal users** are:
 
-* Journalists: discoverability via Google and other search engines, fulltext search, notification subscription using Atom.
+* News journalists: discoverability via Google and other search engines, fulltext search, notification subscription using Atom.
 * Data journalists: filter building capabilities, data download, visualization.
 * Researchers: data download and analysis.
 * Ordinary citizens: discoverability via Google and other search engines, permalinks, social media integration.

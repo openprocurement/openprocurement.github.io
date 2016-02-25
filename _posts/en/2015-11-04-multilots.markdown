@@ -9,12 +9,11 @@ exclude_from_nav: 'yes'
 
 ##Aim:
 
-* To provide the Procuring entity with a convenient way to divide the procurement procedure into parts in order to increase competition by attracting small and medium size businesses.
+* To provide the Procuring entity with a convenient way to divide the product or service being auctioned into parts in order to increase competition by attracting small and medium size businesses.
 * For the Procuring entity: To reduce the number of bureaucratic procedures that accompany open tendering (individual decisions and cumbersome session protocols of the Committee on competitive bidding, etc.).
 * For the participants: To reduce the number of downloads of documents confirming compliance with the qualification criteria.
 * To simplify management of the questions and answers related to the whole procedure and not to an individual lot.
-* To reduce the likelihood of participants collusion that divide lots among bidders without real competition based on price. To simplify the detection of such collusions.
-
+* To reduce the likelihood of participants collusion that divide lots among bidders without real competition based on price. To simplify the detection of such collusion.
 
 
 ##Legal framework
@@ -24,7 +23,7 @@ exclude_from_nav: 'yes'
 
 ##Brief process overview
 
-The Procuring entity announces procedure divided into lots. Participant submits qualification documents once for the entire procedure. If individual lots require individual documents, participant separately uploads qualification documents for the procedure and for the lots. The auction is held not for the procedure as a whole, but for each lot separately. To reduce the risk of price collusion, the results of all auctions are opened simultaneously after the completion of all auctions of the procedure.
+The Procuring entity announces that the auction product will be divided into lots. A participant submits qualification documents once for the entire procedure. If individual lots require individual documents, participant separately uploads qualification documents for the procedure and for the lots. The auction is held not for the procedure as a whole, but for each lot separately. To reduce the risk of price collusion, the results of all auctions are opened simultaneously after the completion of all auctions of the procedure.
 
 The structure of the documents is organized as following:
 
@@ -59,7 +58,7 @@ The estimated value of the procedure is calculated as the sum of the expected va
 
 ###Proposal submission
 
-Bidder uploads documents confirming qualification and compliance with the procurement subject once for all procedure. If individual lots require individual documents, participant separately uploads qualification documents for the procedure and for the lots.
+The bidder uploads documents confirming qualification and compliance with the procurement subject once for all procedure. If individual lots require individual documents, a participant separately uploads qualification documents for the procedure and for the lots.
 
 ###Auction
 
@@ -91,7 +90,6 @@ Qualification is conducted according to the standard procedure for each individu
 * Auction results storage in the auction database without publication before the last auction of the tender is completed.
 * Auction results storage in the auction database in the audit.yml file without publication before the last auction of the tender is completed. 
 * Change of the auction screen forms.
-
 
 ##CDB requirements (changes)
 
