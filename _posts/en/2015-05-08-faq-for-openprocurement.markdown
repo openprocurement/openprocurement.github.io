@@ -6,7 +6,7 @@ lang: en
 categories: en
 ---
 
-###Can this solution be used for public procurements?
+### Can this solution be used for public procurements?
 
 Yes. The OpenProcurement toolkit was designed specifically for the procurement of goods and services on behalf of public authorities. Public procurements have specific requirements as to the accessibility and transparency of procedures. This solution enforces (where appropriate) and encourages recognised best practices for public procurements during the whole tendering process. The Open Procurement toolkit uses electronic documents, strict qualification requirements, a transparent system of proposal evaluation and awarding, effective reverse auctions and open access to the procurement data.
 
