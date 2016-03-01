@@ -7,15 +7,15 @@ categories: en
 exclude_from_nav: 'yes'
 ---
 
-##Aim
+## Aim
 
 Opportunity to choose the most economically advantageous proposal - not only by price but also by additional non-price criteria.
 
-##Legal framework
+## Legal framework
 
 [Law on the Public procurement (in Ukrainian)](https://docs.google.com/document/d/1wxHLMOohlCXC14yamFqc_o4f3mJnWC4eXwDZ6F3GaPI/edit?usp=sharing)
 
-##Terms
+## Terms
 
 **Correction coefficient** -- coefficient according to which the Normalized price is calculated. It is used to average the quality features of proposals made by different suppliers.
 
@@ -23,7 +23,7 @@ Opportunity to choose the most economically advantageous proposal - not only by 
 
 **Proposal price** -- the price offered by the supplier. This price will be used in the contract signed with the winner of the procedure.
 
-##Brief process overview
+## Brief process overview
 
 While creating the Tender announcement the Procuring entity defines one or more non-price criteria to determine the total weight and logic of evaluation. The total weight of all non-price criteria of one proposal must not exceed 30%.
 
@@ -31,9 +31,9 @@ While submitting their proposal a Participant registers the non-price parameters
 
 Participants take part in the reverse auction using “Normalized price”. The auction determines the tender winner. The Procuring entity and the winner sign a contract worth the normalized price multiplied by the "correction coefficient."
 
-##Detailed process overview
+## Detailed process overview
 
-###Tender announcement by the Procuring entity
+### Tender announcement by the Procuring entity
 
 During the tender creation via an eMall interface the Procuring entity defines one or more non-price criteria in addition to the standard fields:
 
@@ -52,7 +52,7 @@ The form of a non-price criterion creation can look as follows:
 
 The non-price criteria, their possible values, and their weight ​​are displayed in the tender announcement. Thus, in this example, participants know that in order to get the maximum score for the "Payment terms" criterion they have to offer deferred payment for at least 180 days, etc. They determine their capabilities basing on this criterion. Also, participants who submit deferred payment terms 90 days and 179 days will receive the same option weight. 
 
-###Proposal submission
+### Proposal submission
 
 A participant submits their proposal including their non-price criteria from the list of values ​​created by the Procuring entity. The “Correction coefficient" applied to this proposal and normalized price are automatically calculated during the proposal submission.
 
@@ -67,7 +67,7 @@ A participant submits their proposal including their non-price criteria from the
 
 The fields specified by the participant in the proposal submission form should be consistent with the information in the attached files. That is, in the text of the supplier’s commercial proposal in this example the payment period must be between 90-179 days and quality should be high. In case of divergence this could lead to disqualification.
 
-###Auction
+### Auction
 
 Auction starts according to the standard procedure, the Procuring entity does no prior proposal evaluation. The bidder’s auction page changes - there is a new additional field “normalized price”. The participant can enter either full price or normalized price. Calculation of the second one will be done automatically based on the correction coefficient that was received by the participant after the proposal submission.
 
@@ -75,10 +75,10 @@ Auction starts according to the standard procedure, the Procuring entity does no
 
 After the auction's completion, participants’ names, their correction coefficients and their full prices are published for each auction round and its results.
 
-##CDB Requirements
+## CDB Requirements
 
 Check that the sum of all non-price criteria of one tender does not exceed 30%.
 
-##eMall Requirements
+## eMall Requirements
 
 Check that the sum of all non-price criteria of one tender does not exceed 30%.

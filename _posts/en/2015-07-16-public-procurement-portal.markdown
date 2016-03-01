@@ -7,7 +7,7 @@ categories: en
 exclude_from_nav: 'yes'
 ---
 
-###1. GENERAL INFORMATION
+### 1. GENERAL INFORMATION
 
 The Prozorro Project was launched in January 2015. Its goal was providing an accessible reverse auction solution to be used on voluntary basis and thus reduce corruption in public procurement in Ukraine. 
 
@@ -28,7 +28,7 @@ The Portal will become an important information source for the picture of the pu
 * Ordinary citizens: discoverability via Google and other search engines, permalinks, social media integration.
 * Developers:  mashup development based on open data.
 
-###2. OBJECTIVES AND EXPECTED RESULTS
+### 2. OBJECTIVES AND EXPECTED RESULTS
 
 The overall objectives of this project are to:
 
@@ -36,7 +36,7 @@ The overall objectives of this project are to:
 * maintain certain level of data quality and consistency;
 * provide procurement data search and visualization.
 
-####System users
+#### System users
 
 The Portal will give wide access to the public procurement data to:
 
@@ -44,11 +44,11 @@ The Portal will give wide access to the public procurement data to:
 * Researchers. They must be able to monitor and analyze public procurement procedures on the state and regional level. They must be provided with machine-readable data in an easily digestible form and tools to extract large amounts of data and information regarding procurement. They will be able to prepare statistics and report any suspicious cases on the basis of their analysis.
 * Automated systems. The Portal must provide complete database interaction mechanism via specific protocols.
 
-###3. SOFTWARE SPECIFICATIONS
+### 3. SOFTWARE SPECIFICATIONS
 
 This portal must host up-to-date and comprehensive information concerning public procurement – procurement procedure details, documents and contracts, CPV Classifier, etc. as well as quick and easy access to commercial electronic procurement platforms involved. 
 
-####Portal requirements
+#### Portal requirements
 
 * The Portal must collect data from several different sources and harmonize it so that data can be processed and displayed in one format. 
   * Minimum goal: data would be collected from two source databases - Prozorro and «Zovnishtorgvydav Ukrainy». 

@@ -6,14 +6,14 @@ lang: ua
 categories: ua
 ---
 
-* ###[Сервер логування](http://openprocurement.org/ua/log-server.html)
+* ### [Сервер логування](http://openprocurement.org/ua/log-server.html)
 
-* ###[Нецінові критерії](http://openprocurement.org/ua/nonprice-criteria.html)
+* ### [Нецінові критерії](http://openprocurement.org/ua/nonprice-criteria.html)
 
-* ###[Стенд автоматизованого тестування](http://openprocurement.org/ua/test-stand.html) 
+* ### [Стенд автоматизованого тестування](http://openprocurement.org/ua/test-stand.html) 
 
-* ###[Багатолотові закупівлі](http://openprocurement.org/ua/multilots.html)
+* ### [Багатолотові закупівлі](http://openprocurement.org/ua/multilots.html)
 
-* ###[Оскарження](http://openprocurement.org/ua/complaints.html)
+* ### [Оскарження](http://openprocurement.org/ua/complaints.html)
 
-* ###[Публічний портал](http://openprocurement.org/ua/public-procurement-portal)
+* ### [Публічний портал](http://openprocurement.org/ua/public-procurement-portal)

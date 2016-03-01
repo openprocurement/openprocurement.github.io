@@ -7,7 +7,7 @@ categories: en
 exclude_from_nav: 'yes'
 ---
 
-##Aim:
+## Aim:
 
 * To provide the Procuring entity with a convenient way to divide the product or service being auctioned into parts in order to increase competition by attracting small and medium size businesses.
 * For the Procuring entity: To reduce the number of bureaucratic procedures that accompany open tendering (individual decisions and cumbersome session protocols of the Committee on competitive bidding, etc.).
@@ -16,12 +16,12 @@ exclude_from_nav: 'yes'
 * To reduce the likelihood of participants collusion that divide lots among bidders without real competition based on price. To simplify the detection of such collusion.
 
 
-##Legal framework
+## Legal framework
 
 * [Law on the Public procurement (in Ukrainian)](https://docs.google.com/document/d/1wxHLMOohlCXC14yamFqc_o4f3mJnWC4eXwDZ6F3GaPI/edit?usp=sharing)
 * [Decree of the Ministry of economic development and trade of Ukraine №921 “On approval of the order definition of the procurement subject” (in Ukrainian)](http://zakon2.rada.gov.ua/laws/show/z0623-10)
 
-##Brief process overview
+## Brief process overview
 
 The Procuring entity announces that the auction product will be divided into lots. A participant submits qualification documents once for the entire procedure. If individual lots require individual documents, participant separately uploads qualification documents for the procedure and for the lots. The auction is held not for the procedure as a whole, but for each lot separately. To reduce the risk of price collusion, the results of all auctions are opened simultaneously after the completion of all auctions of the procedure.
 
@@ -29,9 +29,9 @@ The structure of the documents is organized as following:
 
 ![Document structure of Multi-lot tender](/images/multilots/en_multilots.png)
 
-##Detailed process overview
+## Detailed process overview
 
-###Procedure announcement
+### Procedure announcement
 
 The Procuring entity announces a procedure by determining the following elements at the nomenclature level (item):
 
@@ -56,24 +56,24 @@ Verifications:
 
 The estimated value of the procedure is calculated as the sum of the expected value of the lots.
 
-###Proposal submission
+### Proposal submission
 
 The bidder uploads documents confirming qualification and compliance with the procurement subject once for all procedure. If individual lots require individual documents, a participant separately uploads qualification documents for the procedure and for the lots.
 
-###Auction
+### Auction
 
 Tender status transfers into "Auction" when the auction starts for at least one lot.
 
 The auction is held separately for each lot. Data about the bidders and submitted proposals is published 
 as soon as the last auction of the tender is completed.
 
-###Qualification
+### Qualification
 
 Tender transfers into a "Qualification"status as soon as the last auction of the tender is completed.
 
 Qualification is conducted according to the standard procedure for each individual lot separately.
 
-##eMall requirements:
+## eMall requirements:
 
 * The Procuring entity can choose multi-lot procedure and create an unlimited number of lots.
 * The Procuring entity can change the lot structure, add new lot and remove existing ones - before the end of the clarification period.
@@ -83,7 +83,7 @@ Qualification is conducted according to the standard procedure for each individu
 * The capability to submit questions for the whole procedure or for individual lots.
 * Adaptation to all API changes, defined in the requirements for CDB.
 
-##Auction requirements
+## Auction requirements
 
 * Auction re-configuration (forming auction URL page, auction planning module) from Tender object to Lot object. 
 * Auction planner modification to take lots into account. 
@@ -91,7 +91,7 @@ Qualification is conducted according to the standard procedure for each individu
 * Auction results storage in the auction database in the audit.yml file without publication before the last auction of the tender is completed. 
 * Change of the auction screen forms.
 
-##CDB requirements (changes)
+## CDB requirements (changes)
 
 * Additional object (lot).
 * API (POST) that allows recording and editing the tender in CDB.
