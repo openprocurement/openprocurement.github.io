@@ -14,7 +14,7 @@ Yes. The OpenProcurement toolkit was designed specifically for the procurement o
 
 Yes. The OpenProcurement software can be used for the development of private sector procurement processes, from one-off procurements to enterprise-scale systems. Parts of the OpenProcurement toolkit (e.g. Central database or Auction module) can be used together or separately for any commercial projects.
 
-###  Which license does this software use?
+### Which license does this software use?
 
 The OpenProcurement toolkit is distributed under the Apache license for free and open source software.
 
@@ -75,3 +75,38 @@ The toolkit was developed to avoid imposing restrictions on the size of database
 ### Can I search through the ProZorro database?
 
 The database search is not implemented yet, but it is planned to be a part of the toolkit functionality.
+
+
+# For eMalls
+
+### Does eMall need its own database?
+
+Yes, eMalll (broker) should develop a database according to the data model described in the [API documentation](http://api-docs.openprocurement.org/en/latest). Minimum requirement is a mechanism for tender and bid access tokens storage. Access tokens are received from CDB at the moment of object creation (e.g. [tender creation](http://api-docs.openprocurement.org/en/latest/tutorial.html#creating-tender)). CDB does not provide any data search mechanism (see [discussion](https://groups.google.com/d/topic/open-procurement-api/LkWSc4cGrqc/discussion)), so eMalls have their own database copy and use synchronization mechanism.
+
+### How does synchronization mechanism work?
+
+Each eMall has its own database copy and uses synchronization mechanism to synchronize data with CDB. There are two relatively independent components:
+
+* synchronizer that synchronizes all changes occurring in CDB with the eMall’s database, including the activation reaction to events (users notifications, etc.). Details can be found [here](http://api-docs.openprocurement.org/en/latest/tenders.html#synchronizing). 
+
+* mechanism that registers actions of users in CDB. There are two approaches:
+
+   * simultaneous: when user makes an action this action is made in CDB and user waits for the confirmation of success/failure of the action;
+   * asynchronous: when user actions create queue and change synchronizer sends them to CDB, user is notified of the results by a separate mechanism.
+
+To know more about the peculiarities of synchronization with productive (cluster) basis with separated reading and writing points, read the following threads:
+[https://groups.google.com/d/topic/open-procurement-api/XjurUed0r8Q/discussion](https://groups.google.com/d/topic/open-procurement-api/XjurUed0r8Q/discussion) 
+[https://groups.google.com/d/topic/open-procurement-api/JjB5F5lvO14/discussion](https://groups.google.com/d/topic/open-procurement-api/JjB5F5lvO14/discussion)
+
+### How can user of eMall A access tender which was announced on eMall B?
+
+User does not need to register on another eMall. All events needed during tender conduction should be provided by "native" eMall. All changes that occur at the eMall are sent to the CDB and via synchronization become known to other eMalls. Data synchronization time between eMalls is less than 10 minutes. When supplier on one eMall asks question, it goes to the CDB via eMall and from CDB it "spreads" to all other platforms. Procuring entity provides answer on their eMall, this answer goes to the CDB and from the CDB it "spreads" to all platforms. 
+
+### What is an API key?
+
+API key is required for operations that are not available for anonymous user, such as creating and editing of tenders, submission of bid proposals, secret links for auction participation, etc. There is no need to use API key for data synchronization between the CDB and eMall. Details on how to use API key and access tokens are available at [API documentation](http://api-docs.openprocurement.org/en/latest/authentication.html).
+
+### How should you begin testing your own eMall?
+
+To develop testing driver for your own eMall you should build a test environment on your computer acccording to the instructions [here](https://github.com/openprocurement/robot_tests/wiki). Transitional drivers (or final versions) should be kept at github (each eMall has its own driver), see [https://github.com/openprocurement/?utf8=✓&query=robot_tests.broker](https://github.com/openprocurement/?utf8=✓&query=robot_tests.broker). Driver that is available on github is used for testing at the central testing server: [http: //testing.openprocurement.org](http: //testing.openprocurement.org/). Subscribe to the [discussion](https://groups.google.com/group/open-procurement-testing), where you can learn more information.
+
