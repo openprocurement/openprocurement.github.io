@@ -28,8 +28,6 @@ This page contains the development roadmap for the Open Procurement toolkit. The
 
 [Read more detailed specifications](http://openprocurement.org/en/nonprice-criteria.html)
 
-#### COMING SOON
-
 ## Test Stand with Automated Acceptance Test Suite 
 * Jenkins-based Continuous Integration system for eMalls (commercial electronic procurement platforms) testing. 
 * Checking the current state of every eMall (implementation level of different features) and functionality regression if one occurs.
@@ -48,6 +46,22 @@ This page contains the development roadmap for the Open Procurement toolkit. The
 * To implement the complaint mechanism for the above-threshold tenders according to the articles 18 and 23 of the law on Public procurement.
 
 [Read more detailed specifications](http://openprocurement.org/en/complaints.html)
+
+## e-Contracting module
+* Maintaining and retrieving up-to-date information regarding contracts.
+* e-Invoicing.
+* Registering and tracking of contract and its changes.
+* Tracking of the contract implementation stages.
+* Contract closure.
+
+## e-Planning 
+* Collecting and displaying data about public procurement plans of all Economic Operators.
+
+#### COMING SOON
+
+## Document Management
+* Registering, filing, archiving and logging activity on the decrypted human readable version of the tender bundle.
+* Long-term preservations of documents in digitised format, ensuring that they can be easily retrieved without conversions.
 
 #### PLANNED
 
@@ -71,20 +85,6 @@ This page contains the development roadmap for the Open Procurement toolkit. The
 * Smoother transition from the older API version to the newer one. 
 * eMalls do not need to synchronize the transition time, each eMall can upgrade separately.
 * CDB can be accessed via both older and newer versions.
-
-## e-Contracting module
-* Maintaining and retrieving up-to-date information regarding contracts.
-* e-Invoicing.
-* Registering and tracking of contract and its changes.
-* Tracking of the contract implementation stages.
-* Contract closure.
-
-## e-Planning 
-* Collecting and displaying data about public procurement plans of all Economic Operators.
-
-## Document Management
-* Registering, filing, archiving and logging activity on the decrypted human readable version of the tender bundle.
-* Long-term preservations of documents in digitised format, ensuring that they can be easily retrieved without conversions.
 
 ## Business Intelligence module
 * Extract all necessary data to perform procurement statistical analysis from CDB.
