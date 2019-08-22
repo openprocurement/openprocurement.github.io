@@ -83,7 +83,7 @@ exclude_from_nav: 'yes'
 
 Below threshold procurement complaints are transferred to the advisory body, created at the Transparency International, that has its own user cabinet. Simplified, the complaint review process is as follows:
 
-![Complaints for Below threshold procurement](/images/complaints/en_complaints_below_threshold.png)
+![Complaints for Below threshold procurement](https://openprocurement.io/en/images/en_complaints_below_threshold.png)
 
 In addition to existing opportunity to ask questions about the procurement procedure, any user registered in the system (except Procuring entities) can contact Procuring entity and make a Violation elimination claim (Article 23 of the Law).
 
@@ -101,7 +101,7 @@ Similarly to the complaint process for the below threshold procurement, any user
 
 Simplified, the process of Complaint submission and review looks this way:
 
-![Complaints for Above threshold procurement](/images/complaints/en_complaints_above_threshold.png)
+![Complaints for Above threshold procurement](https://openprocurement.io/en/images/en_complaints_above_threshold.png)
 
 After the Complaint submission, a representative of the Complaint Review body checks:
 

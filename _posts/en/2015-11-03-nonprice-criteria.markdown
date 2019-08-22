@@ -48,7 +48,7 @@ Each criterion can be applied to either participant’s price proposal in genera
 
 The form of a non-price criterion creation can look as follows:
 
-![Form for tender with non-price criteria](/images/nonprcri/en_nonprice_criteria_tender.png)
+![Form for tender with non-price criteria](https://openprocurement.io/en/images/en_nonprice_criteria_tender1.png)
 
 The non-price criteria, their possible values, and their weight ​​are displayed in the tender announcement. Thus, in this example, participants know that in order to get the maximum score for the "Payment terms" criterion they have to offer deferred payment for at least 180 days, etc. They determine their capabilities basing on this criterion. Also, participants who submit deferred payment terms 90 days and 179 days will receive the same option weight. 
 
@@ -56,9 +56,9 @@ The non-price criteria, their possible values, and their weight ​​are displa
 
 A participant submits their proposal including their non-price criteria from the list of values ​​created by the Procuring entity. The “Correction coefficient" applied to this proposal and normalized price are automatically calculated during the proposal submission.
 
-![Non-price criteria](/images/nonprcri/en_nonprice_criteria_form.png)
+![Non-price criteria](https://openprocurement.io/en/images/en_nonprice_criteria_form.png)
 
-![Formula for correction coefficient](/images/nonprcri/ua_nonprice_criteria_formula.png)
+![Formula for correction coefficient](https://openprocurement.io/en/images/en_nonprice_criteria_formula.png)
 
 * K - participant’s correction coefficient
 * M - number of non-price criteria, specified by the Procuring entity
@@ -71,7 +71,7 @@ The fields specified by the participant in the proposal submission form should b
 
 Auction starts according to the standard procedure, the Procuring entity does no prior proposal evaluation. The bidder’s auction page changes - there is a new additional field “normalized price”. The participant can enter either full price or normalized price. Calculation of the second one will be done automatically based on the correction coefficient that was received by the participant after the proposal submission.
 
-![Auction with non-price criteria](/images/nonprcri/en_nonprice_criteria_auction.png)
+![Auction with non-price criteria](https://openprocurement.io/en/images/en_nonprice_criteria_auction.png)
 
 After the auction's completion, participants’ names, their correction coefficients and their full prices are published for each auction round and its results.
 

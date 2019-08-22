@@ -27,7 +27,7 @@ The Procuring entity announces that the auction product will be divided into lot
 
 The structure of the documents is organized as following:
 
-![Document structure of Multi-lot tender](/images/multilots/en_multilots.png)
+![Document structure of Multi-lot tender](https://openprocurement.io/en/images/en_multilots.png)
 
 ## Detailed process overview
 

@@ -23,7 +23,7 @@ Here’s a brief story of how this development came about, what makes ProZorro s
 
 The ProZorro project was initiated in Kiev in May 2014 by a group of anti-corruption social activists. The project was inspired by public procurement reforms in Georgia, with the experience of two e-procurement experts, Tato Urjumelashvili and David Marghania, guiding the development of an electronic procurement system for all Ukrainian public agencies. With the help of commercial platforms, a pilot of the e-procurement system ProZorro was launched in February 2015.
 
-<img src="../images/cases/ProZorro-History.png" />
+<img src="https://openprocurement.io/en/images/prozorro-history.png" />
 
 *History of e-procurement system ProZorro*
 
